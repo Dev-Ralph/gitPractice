@@ -1,7 +1,7 @@
 <?php
 require '../resources/php/registercode.php';
 ?>
-<!DOCTYPE html>
+hotdog<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
