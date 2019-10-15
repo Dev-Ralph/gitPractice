@@ -1,6 +1,3 @@
-<?php
-require '../resources/php/registercode.php';
-?>
 hotdog<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -67,13 +64,6 @@ hotdog<!DOCTYPE html>
     </div>
   </div>
 </div>
-  <?php
-  if(isset($_GET['submit'])){
-  require_once '../resources/php/search.php';
-}else{
-  require_once '../resources/php/tableshow.php';
-}
-  ?>
 </nav>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
